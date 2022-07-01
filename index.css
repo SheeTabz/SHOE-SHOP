@@ -59,9 +59,14 @@ padding: 20px;
 }
 /* Second container */
 .container2{
+    padding: 20px;
+    background-color: burlywood;
     display: flex;
     flex-direction: row;
     justify-content: center;
+    width: 60%;
+    margin: auto;
+    border-radius: 0 30px 0 30px;
 }
 .unordered{
     margin-right: 100px;
@@ -77,6 +82,7 @@ padding: 20px;
 }
 .unordered li{
   margin: 10px; 
+  font-size: 20px;
 
 }
 
