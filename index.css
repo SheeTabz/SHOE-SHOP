@@ -59,9 +59,13 @@ padding: 20px;
 }
 /* Second container */
 .container2{
+    padding: 20px;
+    background-color: burlywood;
     display: flex;
     flex-direction: row;
     justify-content: center;
+    width: 60%;
+    margin: auto;
 }
 .unordered{
     margin-right: 100px;
